@@ -6,6 +6,7 @@
 ```
 uv venv .venv
 uv pip install -r requirements.txt
+source .venv/bin/python3
 ```
 
 ## GitHub key
